@@ -5,3 +5,8 @@ body {
 h1 {
 	color: lightseagreen;
 }
+
+p {
+	font-size: 20px;
+	color: #702323;
+}
